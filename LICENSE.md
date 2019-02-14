@@ -1,4 +1,4 @@
-롤링 링 Copyright © 1997, SUNGHANKIM ™ AllrightsReserved.
+저작권 © 1997, 성한 김 AllrightsReserved
 
 
 
