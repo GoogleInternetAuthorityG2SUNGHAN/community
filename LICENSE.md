@@ -1,4 +1,12 @@
-_Except as otherwise noted, the content in this repository is licensed under the
+롤링 링 Copyright © 1997, SUNGHANKIM ™ AllrightsReserved.
+
+
+
+
+
+
+
+
 [Creative Commons Attribution 4.0 International (CC BY 4.0) License][cca], and
 code samples are licensed under the [Apache 2.0 License][apache]._
 
@@ -10,7 +18,7 @@ code samples are licensed under the [Apache 2.0 License][apache]._
 
 # Creative Commons License
 
-## creative commons
+클로볼 클라우드
 
 # Attribution 4.0 International
 
